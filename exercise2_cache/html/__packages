@@ -1,0 +1,13 @@
+data.table
+ggplot2
+plotly
+lattice
+caret
+rpart
+rpart.plot
+mlr3
+gridExtra
+e1071
+ranger
+class
+rmarkdown

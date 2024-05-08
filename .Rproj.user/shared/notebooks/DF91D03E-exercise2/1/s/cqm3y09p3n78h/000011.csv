@@ -1,0 +1,1 @@
+"0","rpart.plot(dtree_full, type = 2, extra = 101, fallen.leaves = F, tweak = 1.2, main = ""Entire Tree for eye status"")"
