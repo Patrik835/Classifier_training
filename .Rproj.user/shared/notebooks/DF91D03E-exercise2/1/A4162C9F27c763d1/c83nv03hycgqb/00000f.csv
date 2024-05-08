@@ -1,3 +1,0 @@
-"0",""
-"0","colnames(train_data)[17] <- ""eyes_status""   "
-"0","colnames(test_data)[17] <- ""eyes_status"""

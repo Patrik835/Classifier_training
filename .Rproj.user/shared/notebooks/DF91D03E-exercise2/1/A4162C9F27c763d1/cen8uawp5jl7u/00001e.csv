@@ -1,2 +1,0 @@
-"0","train_data <- fread(""eeg_training.csv"")"
-"0","test_data <- fread(""eeg_test.csv"")"
