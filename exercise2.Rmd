@@ -384,3 +384,4 @@ plot_ly(summary_df, type = "scatter", mode = "lines+markers", y = ~Accuracy, x =
 I created a plot comparing all the approaches that I trained my data for.
 We can see that the best performing model is knn with all the measures above 90 percent.
 The worst performing approaches for this type of classification are all 3 types of support vector machines.
+.
